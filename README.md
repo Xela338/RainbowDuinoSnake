@@ -6,11 +6,6 @@
 
 [RainbowDuino](https://wiki.seeedstudio.com/Rainbowduino/)+8x8のLEDボードで動くゲームです。
 
-## 必要ライブラリ
-
-- ArduinoSTL 1.3.3
-- RainbowDuino
-
 ## 動かし方
 
 - リポジトリをクローンし、libディレクトリに上記のライブラリを配置します。
